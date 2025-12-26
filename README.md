@@ -282,6 +282,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+
 #include <stdio.h>
 
 void display(int a[],int n){
